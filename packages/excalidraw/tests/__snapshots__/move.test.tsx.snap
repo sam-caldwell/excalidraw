@@ -1,6 +1,6 @@
 // Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
 
-exports[`duplicate element on move when ALT is clicked > rectangle 1`] = `
+exports[`duplicate element on move when ALT is clicked > rectangle 5`] = `
 {
   "angle": 0,
   "backgroundColor": "transparent",
@@ -33,7 +33,7 @@ exports[`duplicate element on move when ALT is clicked > rectangle 1`] = `
 }
 `;
 
-exports[`duplicate element on move when ALT is clicked > rectangle 2`] = `
+exports[`duplicate element on move when ALT is clicked > rectangle 6`] = `
 {
   "angle": 0,
   "backgroundColor": "transparent",
@@ -92,14 +92,46 @@ exports[`move element > rectangle 1`] = `
   "type": "rectangle",
   "updated": 1,
   "version": 4,
-  "versionNonce": 1116226695,
+  "versionNonce": 1604849351,
+  "width": 30,
+  "x": -10,
+  "y": 60,
+}
+`;
+
+exports[`move element > rectangle 5`] = `
+{
+  "angle": 0,
+  "backgroundColor": "transparent",
+  "boundElements": null,
+  "fillStyle": "solid",
+  "frameId": null,
+  "groupIds": [],
+  "height": 50,
+  "id": "id0",
+  "isDeleted": false,
+  "link": null,
+  "locked": false,
+  "opacity": 100,
+  "roughness": 1,
+  "roundness": {
+    "type": 3,
+  },
+  "seed": 1278240551,
+  "strokeColor": "#1e1e1e",
+  "strokeStyle": "solid",
+  "strokeWidth": 2,
+  "type": "rectangle",
+  "updated": 1,
+  "version": 3,
+  "versionNonce": 1150084233,
   "width": 30,
   "x": 0,
   "y": 40,
 }
 `;
 
-exports[`move element > rectangles with binding arrow 1`] = `
+exports[`move element > rectangles with binding arrow 5`] = `
 {
   "angle": 0,
   "backgroundColor": "transparent",
@@ -137,7 +169,7 @@ exports[`move element > rectangles with binding arrow 1`] = `
 }
 `;
 
-exports[`move element > rectangles with binding arrow 2`] = `
+exports[`move element > rectangles with binding arrow 6`] = `
 {
   "angle": 0,
   "backgroundColor": "transparent",
@@ -175,7 +207,7 @@ exports[`move element > rectangles with binding arrow 2`] = `
 }
 `;
 
-exports[`move element > rectangles with binding arrow 3`] = `
+exports[`move element > rectangles with binding arrow 7`] = `
 {
   "angle": 0,
   "backgroundColor": "transparent",
