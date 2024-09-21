@@ -36,7 +36,7 @@
     "@sentry/browser": "6.2.5",
     "@sentry/integrations": "6.2.5",
     "i18next-browser-languagedetector": "6.1.4",
-    "socket.io-client": "4.7.2"
+    "socket.io-client": "4.8.0"
   },
   "prettier": "@excalidraw/prettier-config",
   "scripts": {
